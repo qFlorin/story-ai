@@ -1,0 +1,10 @@
+- Quiz app, generate question, answers, success page
+- Story generator, user provides a prompt, AI writes a short story
+- Recipe creator, user lists ingredients, AI generates a recipe
+- Workout planner, AI creates a custom workout based on user goals
+- Dream interpreter, user describes a dream, AI gives an interpretation
+- Code explainer, user pastes code, AI explains it in simple terms
+- Image captioner, user uploads an image, AI generates a caption
+- Sentiment analysis tool, user enters text, AI identifies the sentiment
+- Text summarizer, AI condenses a long article into key points
+- Chatbot friend, a simple conversational AI for companionship
